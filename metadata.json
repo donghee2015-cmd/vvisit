@@ -1,0 +1,6 @@
+{
+  "name": "파스텔 방명록 (Pastel Guestbook)",
+  "description": "구글 스프레드시트와 구글 앱스 스크립트(GAS)를 데이터베이스로 사용하는 화사한 파스텔톤 방명록 & 응원 게시판",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
